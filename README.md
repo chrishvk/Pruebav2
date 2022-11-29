@@ -2,7 +2,7 @@
 ## Módulo 
 ### Descripción
 El modúlo tiene como **objetivo** seleccionar un grupo o estudiante de un grupo.
-Apellidos y nombres | Rol
+Apellidos y nombres | Rolesrrrtttt
 ------------------- | ---
 Caso Arellano, Christian Junior | Dueño del producto
 Carhuallanqui Quispe, Leidy Marielly | Scrum Master
