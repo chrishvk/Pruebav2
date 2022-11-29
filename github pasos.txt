@@ -13,3 +13,9 @@ git clone "enla https"
 git add . - para agregar todos los cambios
 git commit -m "texto" - escribir el nombre del commit
 git push origin master - subir a la rama master
+
+
+para crear una rama
+git branch - saber en que rama estás
+git checkout -b "nombre_rama" - para crear nueva rama
+git checkout "nombre de la rama ya creada" - cambiar de rama
