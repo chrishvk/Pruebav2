@@ -1,0 +1,15 @@
+git init: inicializa el git en la carpeta
+git remote add origin "enlace https"
+git status:  para verificar que archivos aun no se han subido
+git add . :  para agregar todos los archivos agregados a la carpeta 
+git commit -m "texto": para agregar la descripción al add que se está realizando
+git push origin master: para subir todo a github en la rama master
+
+
+
+para clonar: 
+entras a la carpeta donde deseas clonar y abres el Bash
+git clone "enla https"
+git add . - para agregar todos los cambios
+git commit -m "texto" - escribir el nombre del commit
+git push origin master - subir a la rama master
